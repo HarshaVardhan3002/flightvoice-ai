@@ -1,10 +1,10 @@
-# AirComms: Real-Time Speech Transcription & Translation
+# flightvoice-ai: Real-Time Speech Transcription & Translation
 
 &#x20;
 
 ## 📌 Overview
 
-AirComms is a real-time speech processing system designed for **aviation and military communication**. It transcribes radio speech using **Whisper**, refines content with **DeepSeek**, and translates it using **open-source models**. The system is optimized for low-latency operation with a **Dockerized front-end** and a scalable backend.
+flightvoice is a real-time speech processing system designed for **aviation and military communication**. It transcribes radio speech using **Whisper**, refines content with **DeepSeek**, and translates it using **open-source models**. The system is optimized for low-latency operation with a **Dockerized front-end** and a scalable backend.
 
 ## 🎯 Features
 
@@ -33,8 +33,8 @@ AirComms is a real-time speech processing system designed for **aviation and mil
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AirComms.git
-cd AirComms
+git clone https://github.com/yourusername/flightvoice-ai.git
+cd flightvoice-ai
 ```
 
 ### Install Dependencies
@@ -80,5 +80,5 @@ Contributions are welcome! Fork the repo, create a branch, and submit a PR.
 
 ## 📜 License
 
-MIT License © 2025 AirComms Team
+MIT License © 2025 flightvoice-ai Team
 
